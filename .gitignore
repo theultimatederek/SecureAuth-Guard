@@ -1,0 +1,5 @@
+/out/
+/data/*.tsv
+*.class
+.idea/
+.vscode/
